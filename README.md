@@ -7,6 +7,6 @@ Analyzed system performance under variable irradiance, load demand, and transien
 
 This repository contains.
 
-**1. MATLAB Simulink Model**
+**MATLAB Simulink Model**
 
 Located in model.slx. This is the complete Simulink implementation of the system. Run the model directly in Simulink.
