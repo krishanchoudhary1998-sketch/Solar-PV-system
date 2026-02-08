@@ -9,4 +9,4 @@ This repository contains.
 
 **1. MATLAB Simulink Model**
 
-Located in Solar_PV.slx model.slx. This is the complete Simulink implementation of the system. Run the model directly in Simulink.
+Located in model.slx. This is the complete Simulink implementation of the system. Run the model directly in Simulink.
